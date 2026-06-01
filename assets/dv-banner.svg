@@ -1,39 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Văn Đình Nam Design Verification Engineer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-label="Văn Đình Nam Design Verification Engineer">
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#071426"/>
-      <stop offset="50%" stop-color="#102A43"/>
-      <stop offset="100%" stop-color="#0B3B3C"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#082F49"/>
+      <stop offset="48%" stop-color="#0F766E"/>
+      <stop offset="100%" stop-color="#1D4ED8"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#38BDF8"/>
-      <stop offset="35%" stop-color="#A78BFA"/>
-      <stop offset="70%" stop-color="#34D399"/>
-      <stop offset="100%" stop-color="#FB923C"/>
+    <linearGradient id="trace" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="47%" stop-color="#A7F3D0"/>
+      <stop offset="100%" stop-color="#FACC15"/>
     </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   </defs>
-  <rect width="1200" height="280" rx="18" fill="url(#background)"/>
-  <g opacity="0.16" stroke="#7DD3FC" stroke-width="1">
-    <path d="M0 48H1200M0 96H1200M0 144H1200M0 192H1200M0 240H1200"/>
-    <path d="M80 0V280M160 0V280M240 0V280M320 0V280M400 0V280M480 0V280M560 0V280M640 0V280M720 0V280M800 0V280M880 0V280M960 0V280M1040 0V280M1120 0V280"/>
+  <rect width="1200" height="310" rx="22" fill="url(#bg)"/>
+  <circle cx="72" cy="60" r="165" fill="#2DD4BF" opacity=".16"/>
+  <circle cx="1070" cy="275" r="170" fill="#A855F7" opacity=".28"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="335" y="72" fill="#99F6E4" font-size="16" font-family="Consolas, monospace">// spec -&gt; stimulus -&gt; monitor -&gt; coverage -&gt; proof</text>
+    <text x="335" y="142" fill="#FFFFFF" font-size="59" font-weight="800">Văn Đình Nam</text>
+    <text x="337" y="185" fill="#DBEAFE" font-size="24" font-weight="600">Design Verification Engineer · SystemVerilog · UVM · SVA</text>
   </g>
-  <path d="M55 212H160L195 182H270L305 212H390L430 148H500L540 212H630L670 178H755L795 212H900L940 138H1010L1050 212H1145" fill="none" stroke="url(#accent)" stroke-width="5" filter="url(#glow)"/>
-  <g fill="#E0F2FE" font-family="Segoe UI, Arial, sans-serif">
-    <text x="58" y="80" font-size="38" font-weight="700">VĂN ĐÌNH NAM</text>
-    <text x="60" y="125" font-size="25" fill="#BAE6FD">DESIGN VERIFICATION ENGINEER</text>
-    <text x="60" y="165" font-size="17" fill="#D1FAE5">SystemVerilog • UVM • SVA • APB4 • AXI4 • RISC-V • FPGA</text>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">
+    <rect x="72" y="76" width="216" height="52" rx="15" fill="#082F49" opacity=".76" stroke="#67E8F9"/>
+    <text x="104" y="109" fill="#CFFAFE">Protocol Verification</text>
+    <rect x="860" y="84" width="250" height="52" rx="15" fill="#172554" opacity=".76" stroke="#93C5FD"/>
+    <text x="904" y="117" fill="#DBEAFE">RISC-V + AES FPGA</text>
+    <rect x="84" y="218" width="190" height="49" rx="15" fill="#0F172A" opacity=".72" stroke="#5EEAD4"/>
+    <text x="123" y="250" fill="#CCFBF1">APB4 / AXI4</text>
+    <rect x="885" y="218" width="206" height="49" rx="15" fill="#1E1B4B" opacity=".75" stroke="#C4B5FD"/>
+    <text x="920" y="250" fill="#EDE9FE">Coverage Closure</text>
   </g>
-  <g font-family="Consolas, monospace" font-size="15" fill="#FDE68A">
-    <text x="865" y="58">assert(property);</text>
-    <text x="865" y="85">randomize();</text>
-    <text x="865" y="112">coverage.sample();</text>
-  </g>
-  <g fill="url(#accent)">
-    <circle cx="160" cy="212" r="7"/><circle cx="270" cy="212" r="7"/><circle cx="430" cy="148" r="7"/>
-    <circle cx="670" cy="178" r="7"/><circle cx="940" cy="138" r="7"/><circle cx="1050" cy="212" r="7"/>
+  <path d="M0 222 C105 194 178 254 284 219 S461 183 566 219 S744 257 844 216 S1035 190 1200 219" fill="none" stroke="url(#trace)" stroke-width="4" stroke-dasharray="18 12" filter="url(#glow)"/>
+  <g fill="#E0F2FE" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">
+    <rect x="350" y="218" width="105" height="32" rx="16" fill="#FFFFFF" opacity=".17"/><text x="376" y="240">UVM</text>
+    <rect x="477" y="218" width="105" height="32" rx="16" fill="#FFFFFF" opacity=".17"/><text x="512" y="240">SVA</text>
+    <rect x="604" y="218" width="125" height="32" rx="16" fill="#FFFFFF" opacity=".17"/><text x="630" y="240">MMIO</text>
+    <rect x="751" y="218" width="105" height="32" rx="16" fill="#FFFFFF" opacity=".17"/><text x="781" y="240">FPGA</text>
   </g>
 </svg>

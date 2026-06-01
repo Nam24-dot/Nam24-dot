@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="355" viewBox="0 0 1080 355" role="img" aria-label="Design verification workflow">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071426"/><stop offset="1" stop-color="#0B2239"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22D3EE"/><stop offset=".5" stop-color="#34D399"/><stop offset="1" stop-color="#F59E0B"/></linearGradient>
+  </defs>
+  <rect width="1080" height="355" rx="20" fill="url(#bg)"/>
+  <g stroke="#27445F" opacity=".7"><path d="M30 55H1050M30 105H1050M30 155H1050M30 205H1050M30 255H1050M30 305H1050"/><path d="M70 25V330M150 25V330M230 25V330M310 25V330M390 25V330M470 25V330M550 25V330M630 25V330M710 25V330M790 25V330M870 25V330M950 25V330M1030 25V330"/></g>
+  <path d="M58 95 C132 95 155 52 218 52 S323 98 386 98 S485 48 553 48 S657 101 722 101 S830 56 898 56 S987 86 1030 86" fill="none" stroke="#38BDF8" stroke-width="4"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="55" y="148" fill="#E0F2FE" font-size="26" font-weight="800">Reusable Verification Workflow</text>
+    <text x="55" y="177" fill="#94A3B8" font-size="16">Specification → constrained stimulus → observation → checking → measurable closure</text>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif" font-weight="700">
+    <g transform="translate(58 218)"><rect width="166" height="75" rx="16" fill="#102A43" stroke="#38BDF8" stroke-width="2"/><text x="30" y="34" fill="#F8FAFC" font-size="20">SPEC + PLAN</text><text x="32" y="57" fill="#94A3B8" font-size="14">scenario matrix</text></g>
+    <g transform="translate(257 218)"><rect width="166" height="75" rx="16" fill="#113A3B" stroke="#34D399" stroke-width="2"/><text x="28" y="34" fill="#F8FAFC" font-size="20">UVM AGENT</text><text x="22" y="57" fill="#A7F3D0" font-size="14">sequence · driver</text></g>
+    <g transform="translate(456 218)"><rect width="166" height="75" rx="16" fill="#172554" stroke="#60A5FA" stroke-width="2"/><text x="48" y="34" fill="#F8FAFC" font-size="20">DUT RTL</text><text x="23" y="57" fill="#BFDBFE" font-size="14">APB4 · CPU · AES</text></g>
+    <g transform="translate(655 218)"><rect width="166" height="75" rx="16" fill="#3B1D55" stroke="#C084FC" stroke-width="2"/><text x="33" y="34" fill="#F8FAFC" font-size="20">CHECKERS</text><text x="20" y="57" fill="#E9D5FF" font-size="14">monitor · SVA · SB</text></g>
+    <g transform="translate(854 218)"><rect width="166" height="75" rx="16" fill="#4A2A0A" stroke="#F59E0B" stroke-width="2"/><text x="32" y="34" fill="#F8FAFC" font-size="20">COVERAGE</text><text x="25" y="57" fill="#FDE68A" font-size="14">regression · debug</text></g>
+  </g>
+  <path d="M224 255H250M423 255H449M622 255H648M821 255H847" stroke="url(#line)" stroke-width="5" stroke-linecap="round"/>
+  <g fill="#22D3EE"><path d="M249 255l-12-8v16z"/><path d="M448 255l-12-8v16z"/><path d="M647 255l-12-8v16z"/><path d="M846 255l-12-8v16z"/></g>
+</svg>
+
