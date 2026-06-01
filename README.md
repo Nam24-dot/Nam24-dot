@@ -55,6 +55,7 @@ công_cụ:
 | Kho mã | Minh chứng nhanh | Vì sao đáng xem |
 | --- | --- | --- |
 | [apb4-uvm-lab](https://github.com/Nam24-dot/apb4-uvm-lab) | Toy APB4 slave, sequence item, constrained-random sequence, driver, monitor, scoreboard, coverage, QuestaSim script | Lab public nhỏ gọn để chạy và review luồng UVM end-to-end |
+| [axi4-lite-uvm-lab](https://github.com/Nam24-dot/axi4-lite-uvm-lab) | AXI4-Lite master/slave RTL, năm kênh `AW/W/B/AR/R`, reactive driver, SVA và regression QuestaSim | Minh chứng protocol verification có nhiều handshake channel độc lập |
 | [systemverilog-sva-protocol-checkers](https://github.com/Nam24-dot/systemverilog-sva-protocol-checkers) | APB4 assertions, positive test và intentional negative test | Assertion bắt đúng vi phạm `PENABLE requires PSEL`, thể hiện tư duy kiểm tra protocol |
 | [apb4-axi4-uvm-verification-portfolio](https://github.com/Nam24-dot/apb4-axi4-uvm-verification-portfolio) | UVM architecture, scenario matrix, scoreboard flow, assertion checklist, coverage strategy | Tóm tắt phương pháp verification protocol ở mức public, không chứa tài liệu nội bộ |
 | [RISC-V 5-stage Pipeline with AES](https://github.com/Nam24-dot/RISC-V_5-state_pipelined_with_AES_implemented_on_FPGA_DE10_Standard) | Pipeline CPU, AES MMIO, UART bootloader, unit tests, UVM regression, waveform, Quartus flow | Minh chứng chính về RTL integration, verification và FPGA prototype |
