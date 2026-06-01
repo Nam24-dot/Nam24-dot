@@ -18,6 +18,12 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/HCMUS-ELECTRONICS%20%26%20TELECOMMUNICATIONS-1D4ED8?style=flat-square" alt="HCMUS Electronics and Telecommunications" />
+  <img src="https://img.shields.io/badge/LOCATION-HO%20CHI%20MINH%20CITY-0F766E?style=flat-square" alt="Ho Chi Minh City" />
+  <img src="https://img.shields.io/badge/CAREER-DESIGN%20VERIFICATION%20ENGINEER-7C3AED?style=flat-square" alt="Design Verification Engineer" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=850&color=22D3EE&center=true&vCenter=true&width=1000&lines=Specification+-%3E+Stimulus+-%3E+Monitor+-%3E+Scoreboard+-%3E+Coverage;SystemVerilog+%7C+UVM+%7C+SVA+%7C+Constrained-random;APB4+%7C+AXI4+%7C+RISC-V+Pipeline+%7C+AES+MMIO+%7C+FPGA" alt="Verification workflow" />
 </p>
 
