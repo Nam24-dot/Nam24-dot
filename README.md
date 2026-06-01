@@ -2,10 +2,11 @@
   <img src="./assets/dv-banner.svg" alt="Văn Đình Nam Design Verification Engineer" width="100%" />
 </p>
 
-<h1 align="center">⚡ Văn Đình Nam · Design Verification · RTL · FPGA ⚡</h1>
+<h1 align="center">⚡ Văn Đình Nam · Design Verification · IC Design · RTL · FPGA ⚡</h1>
 
 <p align="center">
-  <a href="https://github.com/Nam24-dot?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-PORTFOLIO-111827?style=for-the-badge&logo=github" alt="GitHub portfolio" /></a>
+  <a href="https://github.com/Nam24-dot?tab=repositories"><img src="https://img.shields.io/badge/KHO%20MÃ-14%20REPO%20CÔNG%20KHAI-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
+  <a href="https://www.linkedin.com/in/van-dinh-nam/"><img src="https://img.shields.io/badge/LINKEDIN-KẾT%20NỐI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/TRỌNG%20TÂM-DESIGN%20VERIFICATION-0F766E?style=for-the-badge" alt="Design Verification" />
   <img src="https://img.shields.io/badge/PROTOCOL-APB4%20%7C%20AXI4-0284C7?style=for-the-badge" alt="APB4 AXI4" />
   <img src="https://komarev.com/ghpvc/?username=Nam24-dot&label=LƯỢT%20XEM&style=for-the-badge&color=7C3AED" alt="Profile views" />
@@ -26,6 +27,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=850&color=22D3EE&center=true&vCenter=true&width=1000&lines=Specification+-%3E+Stimulus+-%3E+Monitor+-%3E+Scoreboard+-%3E+Coverage;SystemVerilog+%7C+UVM+%7C+SVA+%7C+Constrained-random;APB4+%7C+AXI4+%7C+RISC-V+Pipeline+%7C+AES+MMIO+%7C+FPGA" alt="Verification workflow" />
 </p>
+
+> **Tầm nhìn:** Nền tảng điện tử viễn thông giúp tôi hiểu hệ thống phần cứng từ kiến trúc vi xử lý RISC-V, giao thức bus AMBA đến quy trình kiểm thử toàn diện bằng UVM. Tôi ưu tiên repository có mã nguồn chạy được, testbench rõ ràng và kết quả verification có thể tái tạo.
 
 <p align="center">
   <img src="./assets/dv-workflow.svg" alt="Reusable design verification workflow" width="94%" />
