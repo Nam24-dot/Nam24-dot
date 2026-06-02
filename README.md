@@ -137,8 +137,8 @@ SoC FPGA tích hợp CPU RISC-V 32-bit pipeline `IF/ID/EX/MEM/WB`, forwarding, l
 ## 📊 Toàn Cảnh GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nam24-dot&show_icons=true&theme=tokyonight&hide_border=true" alt="Thống kê GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nam24-dot&layout=compact&theme=tokyonight&hide_border=true" alt="Ngôn ngữ sử dụng nhiều nhất" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nam24-dot&show_icons=true&theme=tokyonight&hide_border=true&locale=vi" alt="Thống kê GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nam24-dot&layout=compact&theme=tokyonight&hide_border=true&locale=vi" alt="Ngôn ngữ sử dụng nhiều nhất" />
 </p>
 
 <p align="center">
