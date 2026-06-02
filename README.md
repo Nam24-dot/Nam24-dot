@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="./assets/dv-banner.svg" alt="Văn Đình Nam - Kỹ sư kiểm thử thiết kế" width="100%" />
+  <img src="./assets/dv-banner.svg" alt="Van Dinh Nam - Design Verification Engineer" width="100%" />
 </p>
 
 <h1 align="center">
-  Xin chào, tôi là Văn Đình Nam
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" alt="Biểu tượng chào" />
+  Hi, I am Van Dinh Nam
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" alt="Waving hand" />
 </h1>
 
 <p align="center">
@@ -12,68 +12,68 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Nam24-dot?tab=repositories"><img src="https://img.shields.io/badge/KHO%20MA-14%20REPO%20CONG%20KHAI-111827?style=for-the-badge&logo=github&logoColor=white" alt="Danh sách kho mã GitHub" /></a>
-  <a href="https://www.linkedin.com/in/v%C4%83n-%C4%91%C3%ACnh-nam-561689254/"><img src="https://img.shields.io/badge/LINKEDIN-KET%20NOI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kết nối LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/TRONG%20TAM-DESIGN%20VERIFICATION-0F766E?style=for-the-badge" alt="Trọng tâm Design Verification" />
-  <img src="https://komarev.com/ghpvc/?username=Nam24-dot&label=LUOT%20XEM&style=for-the-badge&color=7C3AED" alt="Lượt xem hồ sơ" />
+  <a href="https://github.com/Nam24-dot?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-14%20PUBLIC%20REPOS-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
+  <a href="https://www.linkedin.com/in/v%C4%83n-%C4%91%C3%ACnh-nam-561689254/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/FOCUS-DESIGN%20VERIFICATION-0F766E?style=for-the-badge" alt="Design Verification focus" />
+  <img src="https://komarev.com/ghpvc/?username=Nam24-dot&label=PROFILE%20VIEWS&style=for-the-badge&color=7C3AED" alt="Profile views" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Nam24-dot/apb4-uvm-lab"><img src="https://img.shields.io/badge/APB4-UVM%20LAB%20DA%20VERIFY-06B6D4?style=flat-square" alt="APB4 UVM Lab đã được kiểm tra" /></a>
+  <a href="https://github.com/Nam24-dot/apb4-uvm-lab"><img src="https://img.shields.io/badge/APB4-VERIFIED%20UVM%20LAB-06B6D4?style=flat-square" alt="Verified APB4 UVM Lab" /></a>
   <a href="https://github.com/Nam24-dot/axi4-lite-uvm-lab"><img src="https://img.shields.io/badge/AXI4--LITE-UVM%20REGRESSION-0284C7?style=flat-square" alt="AXI4-Lite UVM regression" /></a>
-  <a href="https://github.com/Nam24-dot/systemverilog-sva-protocol-checkers"><img src="https://img.shields.io/badge/SVA-POSITIVE%20%2B%20NEGATIVE-DC2626?style=flat-square" alt="SVA positive và negative test" /></a>
-  <a href="https://github.com/Nam24-dot/RISC-V_5-state_pipelined_with_AES_implemented_on_FPGA_DE10_Standard"><img src="https://img.shields.io/badge/CPU--AES-FPGA%20PROOF-F97316?style=flat-square" alt="Minh chứng CPU AES trên FPGA" /></a>
+  <a href="https://github.com/Nam24-dot/systemverilog-sva-protocol-checkers"><img src="https://img.shields.io/badge/SVA-POSITIVE%20%2B%20NEGATIVE-DC2626?style=flat-square" alt="SVA positive and negative tests" /></a>
+  <a href="https://github.com/Nam24-dot/RISC-V_5-state_pipelined_with_AES_implemented_on_FPGA_DE10_Standard"><img src="https://img.shields.io/badge/CPU--AES-FPGA%20PROOF-F97316?style=flat-square" alt="CPU AES FPGA proof" /></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=850&color=22D3EE&center=true&vCenter=true&width=1000&lines=Dac+ta+-%3E+Kich+thich+-%3E+Giam+sat+-%3E+Doi+chieu+-%3E+Do+phu;SystemVerilog+%7C+UVM+%7C+SVA+%7C+Constrained-random;APB4+%7C+AXI4+%7C+RISC-V+Pipeline+%7C+AES+MMIO+%7C+FPGA" alt="Quy trình kiểm thử thiết kế" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=850&color=22D3EE&center=true&vCenter=true&width=1000&lines=Specification+-%3E+Stimulus+-%3E+Monitor+-%3E+Scoreboard+-%3E+Coverage;SystemVerilog+%7C+UVM+%7C+SVA+%7C+Constrained-random;APB4+%7C+AXI4-Lite+%7C+RISC-V+Pipeline+%7C+AES+MMIO+%7C+FPGA" alt="Design verification workflow" />
 </p>
 
-> **Tầm nhìn:** Tôi xây dựng hồ sơ kỹ thuật có thể kiểm tra nhanh: mã nguồn chạy được, testbench rõ ràng, assertion bắt đúng lỗi, coverage đo được và kết quả mô phỏng có thể tái tạo.
+> **Mission:** I build engineering portfolios that are easy to verify: runnable source code, structured testbenches, assertions that catch real violations, measurable coverage and reproducible simulation results.
 
 <p align="center">
-  <img src="./assets/dv-workflow.svg" alt="Quy trình kiểm thử thiết kế có thể tái sử dụng" width="94%" />
+  <img src="./assets/dv-workflow.svg" alt="Reusable design verification workflow" width="94%" />
 </p>
 
-## 🧭 Hồ Sơ Kỹ Thuật
+## 🧭 Technical Profile
 
-Tôi định hướng trở thành **Design Verification Engineer**. Nền tảng điện tử viễn thông giúp tôi tiếp cận hệ thống phần cứng từ kiến trúc vi xử lý RISC-V, giao thức bus AMBA đến quy trình kiểm thử toàn diện bằng UVM.
+I am pursuing a career as a **Design Verification Engineer**. My electronics and telecommunications background helps me approach hardware systems from RISC-V microarchitecture and AMBA bus protocols to comprehensive UVM verification workflows.
 
 ```yaml
-họ_tên: Văn Đình Nam
-định_hướng: Design Verification Engineer
-trọng_tâm:
+name: Van Dinh Nam
+target_role: Design Verification Engineer
+focus:
   - SystemVerilog, UVM, SVA, constrained-random testing
   - scoreboard, monitor, functional coverage, regression, waveform debug
   - AMBA APB4, AXI4-Lite, protocol compliance
   - Verilog RTL, RISC-V RV32I pipeline, MMIO, AES accelerator
-công_cụ:
+tools:
   - Synopsys VCS, Verdi, QuestaSim, ModelSim, Quartus
   - Python, C, shell scripting
 ```
 
-## 🚀 Kho Mã Nổi Bật
+## 🚀 Featured Repositories
 
-| Kho mã | Minh chứng nhanh | Giá trị khi đánh giá |
+| Repository | Technical evidence | Why it matters |
 | --- | --- | --- |
-| [apb4-uvm-lab](https://github.com/Nam24-dot/apb4-uvm-lab) | APB4 slave, sequence item, constrained-random sequence, driver, monitor, scoreboard, coverage, script QuestaSim | Luồng UVM end-to-end nhỏ gọn, thuận tiện để chạy và review |
-| [axi4-lite-uvm-lab](https://github.com/Nam24-dot/axi4-lite-uvm-lab) | AXI4-Lite master/slave RTL, năm kênh `AW/W/B/AR/R`, reactive driver, SVA, regression | Minh chứng kiểm thử giao thức có nhiều kênh handshake độc lập |
-| [systemverilog-sva-protocol-checkers](https://github.com/Nam24-dot/systemverilog-sva-protocol-checkers) | APB4 assertions, positive test và intentional negative test | Assertion bắt đúng vi phạm `PENABLE requires PSEL` |
-| [apb4-axi4-uvm-verification-portfolio](https://github.com/Nam24-dot/apb4-axi4-uvm-verification-portfolio) | Kiến trúc UVM, ma trận kịch bản, luồng scoreboard, danh sách assertion, chiến lược coverage | Tóm tắt phương pháp kiểm thử giao thức ở mức công khai |
-| [RISC-V Pipeline với AES](https://github.com/Nam24-dot/RISC-V_5-state_pipelined_with_AES_implemented_on_FPGA_DE10_Standard) | Pipeline CPU, AES MMIO, UART bootloader, unit test, UVM regression, waveform, luồng Quartus | Minh chứng chính về tích hợp RTL, kiểm thử và FPGA prototype |
-| [Tài liệu đồ án tốt nghiệp](https://github.com/Nam24-dot/Bao_cao_do_an_tot_nghiep_new) | Kiến trúc IP, hướng dẫn QuestaSim, waveform, tổng hợp Quartus và FPGA bring-up | Tài liệu kỹ thuật để đánh giá dự án nhanh |
-| [EFR32xG21 AHT20 Monitor](https://github.com/Nam24-dot/The-temperature-and-humidity-measurement-system-uses-EFR32xG21.) | Firmware non-blocking, BLE, UART và cảm biến | Bổ sung nền tảng embedded và giao tiếp thiết bị |
+| [apb4-uvm-lab](https://github.com/Nam24-dot/apb4-uvm-lab) | APB4 slave, sequence item, constrained-random sequence, driver, monitor, scoreboard, coverage and QuestaSim scripts | Compact end-to-end UVM lab that is easy to run and review |
+| [axi4-lite-uvm-lab](https://github.com/Nam24-dot/axi4-lite-uvm-lab) | AXI4-Lite master/slave RTL, five `AW/W/B/AR/R` channels, reactive driver, SVA and regression | Demonstrates verification of independent handshake channels |
+| [systemverilog-sva-protocol-checkers](https://github.com/Nam24-dot/systemverilog-sva-protocol-checkers) | APB4 assertions, positive tests and intentional negative tests | Shows an assertion catching the `PENABLE requires PSEL` violation |
+| [apb4-axi4-uvm-verification-portfolio](https://github.com/Nam24-dot/apb4-axi4-uvm-verification-portfolio) | UVM architecture, scenario matrix, scoreboard flow, assertion checklist and coverage strategy | Public overview of a protocol verification methodology |
+| [RISC-V Pipeline with AES](https://github.com/Nam24-dot/RISC-V_5-state_pipelined_with_AES_implemented_on_FPGA_DE10_Standard) | CPU pipeline, AES MMIO, UART bootloader, unit tests, UVM regression, waveforms and Quartus flow | Main proof of RTL integration, verification and FPGA prototyping |
+| [Graduation Project Documentation](https://github.com/Nam24-dot/Bao_cao_do_an_tot_nghiep_new) | IP architecture, QuestaSim guide, waveforms, Quartus synthesis and FPGA bring-up | Technical documentation for a fast project review |
+| [EFR32xG21 AHT20 Monitor](https://github.com/Nam24-dot/The-temperature-and-humidity-measurement-system-uses-EFR32xG21.) | Non-blocking firmware, BLE, UART and sensor integration | Adds embedded systems and device communication experience |
 
-## 🧪 Minh Chứng Kiểm Thử
+## 🧪 Verification Evidence
 
 ### APB4 UVM Lab
 
 ```text
-Chuỗi ngẫu nhiên → Driver → APB4 DUT → Monitor → Scoreboard
-                                          └──→ Coverage
+Random Sequence → Driver → APB4 DUT → Monitor → Scoreboard
+                                      └──────→ Coverage
 ```
 
-Kết quả đã chạy bằng `QuestaSim 10.2c`:
+Validated with `QuestaSim 10.2c`:
 
 ```text
 APB4_UVM_LAB_PASS checks=43
@@ -81,38 +81,38 @@ APB4_UVM_LAB_PASS checks=43
 
 ### SystemVerilog Assertions
 
-| Property | Mục đích |
+| Property | Purpose |
 | --- | --- |
-| `penable_requires_psel` | Access phase không được xuất hiện khi slave chưa được chọn |
-| `setup_advances_to_access` | Setup phase phải tiến sang access phase |
-| `control_stable_while_waiting` | Control phải ổn định khi chờ `PREADY` |
-| `control_known_when_selected` | Tín hiệu control không được chứa giá trị unknown |
+| `penable_requires_psel` | The access phase must not occur before the slave is selected |
+| `setup_advances_to_access` | The setup phase must advance to the access phase |
+| `control_stable_while_waiting` | Control signals must remain stable while waiting for `PREADY` |
+| `control_known_when_selected` | Control signals must not contain unknown values |
 
-Kết quả mô phỏng:
+Simulation output:
 
 ```text
 APB4_SVA_POSITIVE_TEST_PASS
 APB4 violation: PENABLE requires PSEL
 ```
 
-## ⚙️ RISC-V CPU Và Bộ Tăng Tốc AES
+## ⚙️ RISC-V CPU and AES Accelerator
 
 <p align="center">
-  <img src="./assets/cpu-aes-proof.svg" alt="Minh chứng kiểm thử RISC-V CPU và AES trên FPGA" width="94%" />
+  <img src="./assets/cpu-aes-proof.svg" alt="RISC-V CPU and AES FPGA verification proof" width="94%" />
 </p>
 
-SoC FPGA tích hợp CPU RISC-V 32-bit pipeline `IF/ID/EX/MEM/WB`, forwarding, load-use stall, branch/jump flush, register-file writeback, MMIO path, bộ tăng tốc AES và UART bootloader.
+The FPGA SoC integrates a 32-bit RISC-V pipeline with `IF/ID/EX/MEM/WB` stages, forwarding, load-use stall handling, branch/jump flush logic, register-file writeback, an MMIO path, an AES accelerator and a UART bootloader.
 
-| Hạng mục kiểm thử | Kết quả |
+| Verification target | Result |
 | --- | ---: |
-| Lệnh RISC-V được kiểm thử | `39` |
-| Kiểm tra ISA ngẫu nhiên | `700` |
-| Vector CPU-AES end-to-end | `50` |
+| Tested RISC-V instructions | `39` |
+| Random ISA checks | `700` |
+| CPU-AES end-to-end vectors | `50` |
 | AES UVM random regression | `PASS` |
 | CPU UVM end-to-end regression | `PASS` |
 | MMIO functional coverage | `100%` |
 
-## 🧰 Bộ Công Cụ
+## 🧰 Toolbox
 
 <p align="center">
   <img src="https://img.shields.io/badge/SystemVerilog-111827?style=for-the-badge" alt="SystemVerilog" />
@@ -127,31 +127,31 @@ SoC FPGA tích hợp CPU RISC-V 32-bit pipeline `IF/ID/EX/MEM/WB`, forwarding, l
   <img src="https://img.shields.io/badge/Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Quartus" />
 </p>
 
-## 🔎 Lộ Trình Đánh Giá Nhanh
+## 🔎 Quick Review Path
 
-1. Chạy [APB4 UVM Lab](https://github.com/Nam24-dot/apb4-uvm-lab) để xem constrained-random flow và scoreboard.
-2. Chạy [AXI4-Lite UVM Lab](https://github.com/Nam24-dot/axi4-lite-uvm-lab) để xem xử lý nhiều kênh handshake.
-3. Chạy positive/negative tests trong [SVA Protocol Checkers](https://github.com/Nam24-dot/systemverilog-sva-protocol-checkers) để xem assertion bắt lỗi.
-4. Mở [RISC-V Pipeline với AES](https://github.com/Nam24-dot/RISC-V_5-state_pipelined_with_AES_implemented_on_FPGA_DE10_Standard) để xem RTL, UVM regression và quy trình FPGA.
+1. Run [APB4 UVM Lab](https://github.com/Nam24-dot/apb4-uvm-lab) to inspect the constrained-random flow and scoreboard.
+2. Run [AXI4-Lite UVM Lab](https://github.com/Nam24-dot/axi4-lite-uvm-lab) to inspect independent handshake-channel handling.
+3. Run the positive and negative tests in [SVA Protocol Checkers](https://github.com/Nam24-dot/systemverilog-sva-protocol-checkers) to see assertions detect violations.
+4. Open [RISC-V Pipeline with AES](https://github.com/Nam24-dot/RISC-V_5-state_pipelined_with_AES_implemented_on_FPGA_DE10_Standard) to review RTL, UVM regression and the FPGA workflow.
 
-## 📊 Hoạt Động GitHub
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nam24-dot&theme=react-dark&hide_border=true&area=true" alt="Biểu đồ hoạt động GitHub" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nam24-dot&theme=react-dark&hide_border=true&area=true" alt="GitHub activity graph" width="100%" />
 </p>
 
-## 🤝 Kết Nối
+## 🤝 Connect
 
-Tôi quan tâm đến cơ hội **Design Verification**, **RTL Verification**, **IC Design** và **FPGA**.
+I am interested in opportunities in **Design Verification**, **RTL Verification**, **IC Design** and **FPGA** engineering.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/v%C4%83n-%C4%91%C3%ACnh-nam-561689254/"><img src="https://img.shields.io/badge/LINKEDIN-VAN%20DINH%20NAM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Văn Đình Nam" /></a>
+  <a href="https://www.linkedin.com/in/v%C4%83n-%C4%91%C3%ACnh-nam-561689254/"><img src="https://img.shields.io/badge/LINKEDIN-VAN%20DINH%20NAM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Van Dinh Nam" /></a>
   <a href="https://github.com/Nam24-dot"><img src="https://img.shields.io/badge/GITHUB-NAM24--DOT-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Nam24-dot" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <strong>Đặc tả → kích thích → độ phủ → debug → minh chứng.</strong><br />
+  <strong>Specification → stimulus → coverage → debug → proof.</strong><br />
   SystemVerilog · UVM · SVA · APB4 · AXI4-Lite · RTL · FPGA
 </p>
