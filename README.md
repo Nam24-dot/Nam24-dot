@@ -134,12 +134,7 @@ SoC FPGA tích hợp CPU RISC-V 32-bit pipeline `IF/ID/EX/MEM/WB`, forwarding, l
 3. Chạy positive/negative tests trong [SVA Protocol Checkers](https://github.com/Nam24-dot/systemverilog-sva-protocol-checkers) để xem assertion bắt lỗi.
 4. Mở [RISC-V Pipeline với AES](https://github.com/Nam24-dot/RISC-V_5-state_pipelined_with_AES_implemented_on_FPGA_DE10_Standard) để xem RTL, UVM regression và quy trình FPGA.
 
-## 📊 Toàn Cảnh GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nam24-dot&show_icons=true&theme=tokyonight&hide_border=true&locale=vi" alt="Thống kê GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nam24-dot&layout=compact&theme=tokyonight&hide_border=true&locale=vi" alt="Ngôn ngữ sử dụng nhiều nhất" />
-</p>
+## 📊 Hoạt Động GitHub
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nam24-dot&theme=react-dark&hide_border=true&area=true" alt="Biểu đồ hoạt động GitHub" width="100%" />
